@@ -2,7 +2,7 @@
 using System;
 using System.Globalization;
 
-namespace Procents
+namespace Percents
 {
     internal class Program
     {
